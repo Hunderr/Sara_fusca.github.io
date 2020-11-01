@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: #3E6680;
+    background-image: url(background-homepage.jpg);
     background-size: cover;
     min-height: 100vh;
     display: flex;
@@ -132,7 +132,7 @@ h1 {
 }
 
 .container2 .card:hover .face.face1{
-    background: #ff0057;
+    background: #78D0AA;
     transform: translateY(0px);
 }
 
