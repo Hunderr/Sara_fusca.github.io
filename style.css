@@ -2,8 +2,8 @@
     position: fixed;
     z-index: 999999;
     background: #fff;
-    width: 100%;
-    height: 100%;
+    width: 105%;
+    height: 105%;
 }
 
 .loader{
@@ -261,3 +261,9 @@ h1 {
     text-align: center;
     font-size: 1.5em;
 }
+
+/* disabilita tag a */
+a.disabled {
+    pointer-events: none;
+    cursor: default;
+  }
