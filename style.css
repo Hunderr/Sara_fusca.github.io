@@ -13,7 +13,7 @@
     height: 150px;
     position: absolute;
     top: calc(50vh - 75px);
-    left: calc(50vw - 75px);
+    left: calc(52vw - 75px);
 }
 
 .loader:before, .loader::after{
